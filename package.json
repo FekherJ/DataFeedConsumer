@@ -1,0 +1,26 @@
+{
+  "name": "dataconsumer",
+  "version": "1.0.0",
+  "description": "a smart contract that retreives bitcoin and Ethereum proces for Sepolia testnet using HardHat",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FekherJ/DataFeedConsumer.git"
+  },
+  "keywords": [
+    "datafeed"
+  ],
+  "author": "fjarrar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FekherJ/DataFeedConsumer/issues"
+  },
+  "homepage": "https://github.com/FekherJ/DataFeedConsumer#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.9"
+  }
+}
